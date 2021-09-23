@@ -1,31 +1,31 @@
 # Práticas com Aprendizado de Máquina
-Projeto criado para aula de Tópicos em Engenharia de Software
-Dataset: mdwe
+Projeto criado para aula de Tópicos em Engenharia de Software<br>
+Dataset: <b>mdwe</b>
 
 ### DecisionTreeClassifier
-criterion: entropy
-max_depth: None
-Acurácia: 0.74
+* criterion: <b>entropy</b>
+* max_depth: <b>None</b>
+* Acurácia: <b>0.74</b>
 
 ### LinearSVC
-C: 1
-Acurácia: 0.7666666666666667
+* C: <b>1</b>
+* Acurácia: <b>0.7666666666666667</b>
 
 ### SVC
-kernel: linear
-C: 1
-Acurácia: 0.7666666666666667
+* kernel: <b>linear</b>
+* C: <b>1</b>
+* Acurácia: <b>0.7666666666666667</b>
 
 ### RandomForestClassifier
-criterion: gini
-max_depth: None
-Acurácia: 0.7577777777777778
+* criterion: <b>gini</b>
+* max_depth: <b>None</b>
+* Acurácia: <b>0.7577777777777778</b>
 
 ### LogisticRegression
-solver: liblinear
-C: 10
-Acurácia: 0.7666666666666667
+* solver: <b>liblinear</b>
+* C: <b>10</b>
+* Acurácia: <b>0.7666666666666667</b>
 
 ### GaussianNB
-var_smoothing: 0.0001519911082952933
-Acurácia: 0.7444444444444444
+* var_smoothing: <b>0.0001519911082952933</b>
+* Acurácia: <b>0.7444444444444444</b>
